@@ -5,7 +5,7 @@ class Nabi extends Component{
   render(){
     return (
       <div className="ninja">
-        <div>Name: Ryu</div>
+        <div>Name: Nobi Samid working on development branch</div>
         <div>Age: 30</div>
         <div>Belt: Black</div>
       </div>
